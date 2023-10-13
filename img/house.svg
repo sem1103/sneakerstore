@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>house</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAASZQTFRFAAAAm5ubm5ubm5ubm5ubmpqakpKSm5ubm5ublZWVmpqam5ubmZmZm5ubnJycnJycnJycnJycm5ubm5ubnJycm5ubnZ2dn5+fm5ubm5ubmJiYnZ2dnJycnJycmZmZn5+fm5ubmZmZm5ubm5ubm5ubf39/m5ubm5ubnZ2dnJycm5ubm5ubm5ubqqqqmpqam5ubmpqam5ubm5ubmpqanJycnZ2dm5ubnJycm5ubm5ubnJycmpqanJycf39/////m5ubnp6enJycm5ubm5ubmpqam5ubnp6em5ubnJycnJycm5ubm5ubnJycm5ubm5ubm5ubnZ2dnJycm5ubnJycm5ubnJycm5uboaGhlpaWl5eXnJycmpqam5ubmZmZm5ubm5ubnJycm5ubxdvUWQAAAGJ0Uk5TAFfC9cFWB6b/DLm/DxfN0mRn4iHavA0Yz94lLOSkBRDoMkDwkQKq80ZQ9/6AA5j5av38d3FLa4iX7jtRnwQBoSpD8aBY1R3REiTt8k2FM1w0Xedfid+jExEW9iv4I1Slpy4NxxARAAABEUlEQVR4nO2SV1fCQBSEBxJgLCBi78GuKIqKXWxYsYIVsP3/P+GgHA0k4clH52Xn7jd37+45C9jl8xuGGYCXgiF+KRR0503NrKql1Y2HI0Jt0faYlkjYyTs6Bbq6gZ5emb7+ej4wqO2h4YodMWWteC0fHdPm+ET1spMqpqbtfGaWTMz9lPNJJRZ8v3wxRS5F7R3LSiRW7JWRrp25qh6ufZ+3LruxWX/rLU3l9g6Q2ZWJ7TnfvX8gcJhBVsvRsZMDcUsoCz95curGgbNz0kSOvHDnwCWZg4658gpcC/4H/iygj3HjFbglU8iTBa/AHXmPBzKffnxy0XOhSCZRKrOBii9AoEGi/FqZVHqz3LH1/gF8AqvTK/UCE23iAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
